@@ -6,8 +6,8 @@ description: "Which political party in the White House is better for the economy
 author: Zach Perry
 author_description: "Hello" 
 
-url: https://esnt.github.io ## change this to https://yourusername.github.io
-baseurl: /another-stat386-theme ## change this to the name of your blog repository
+url: https://zach-321.github.io ## change this to https://yourusername.github.io
+baseurl: /my-blog2 ## change this to the name of your blog repository
 header_image: /assets/img/headerimg.jpg ## change your header image if you want
 
 ## Add your social media user names.  Github is required, the rest are optional
